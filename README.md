@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/rbueza/theweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1 style="color:MediumSeaGreen;"><center>
+Welcome Maderpaker </center></h1>
+<p style="color:black;">You have a freedom to do what ever you want!</p>
+<p style="color:Red;">Do at your own risk!</p>
+<img src="https://www.google.com.ph/search?q=memes&rlz=1CAHPZR_enPH824&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJuaK7wOjeAhXGeX0KHTkPBwIQ_AUIDigB&biw=1422&bih=673#imgrc=5uSLuQinWQA9-M:" width="500" height="333">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+</body>
+</html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbueza/theweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
