@@ -9,7 +9,7 @@
 Welcome Maderpaker! </center></h1>
 <p style="color:black;">You have a freedom to do what ever you want!</p>
 <p style="color:Red;">Do at your own risk!</p>
-<img src="https://www.google.com.ph/search?q=memes&rlz=1CAHPZR_enPH824&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjJuaK7wOjeAhXGeX0KHTkPBwIQ_AUIDigB&biw=1422&bih=673#imgrc=5uSLuQinWQA9-M:" width="500" height="333">
+<img src="https://www.telegraph.co.uk/content/dam/news/2016/09/01/winter-is-coming-meme_1_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg?imwidth=450¨ width="500" height="333">
 
 
 </body>
